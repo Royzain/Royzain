@@ -96,7 +96,7 @@ def sendtextchat(comment):
     print("»»", comment, "\n")
     
     
-print ("[-[  CODEAD BY ITX_Z9IN ]-]")
+print ("[-[  CODEAD BY ITX_ROY ]-]")
 
 print("\033[1;33;40m", end = "")
 sp("\nEnter your email or mob no.. :\n")
